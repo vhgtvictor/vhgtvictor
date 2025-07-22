@@ -33,7 +33,7 @@
 
 ## 📫 Como me encontrar
 
-- ✉️ E-mail: seu.email@exemplo.com  
-- 🔗 LinkedIn: [vicvtorhugo](https://linkedin.com/in/victorhugo)  
+- ✉️ E-mail:  
+- 🔗 LinkedIn: [victorhugo](https://linkedin.com/in/victorhugo)  
 ---
 
