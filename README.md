@@ -22,19 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-## 🚀 Estatísticas
-
-![](https://komarev.com/ghpvc/?username=vhgtvictor&style=for-the-badge&color=blueviolet)  
-  
-###
-
-<img src="https://raw.githubusercontent.com/vhgtvictor/vhgtvictor/output/snake.svg" alt="Snake animation" />
-
----
-
 ## 📫 Como me encontrar
 
 - ✉️ E-mail:  
 - 🔗 LinkedIn: [victorhugo](https://linkedin.com/in/victorhugo)  
----
 
