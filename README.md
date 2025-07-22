@@ -1,29 +1,26 @@
-# 👋 Olá, eu sou Victor Hugo  
-**Java Backend Developer | Microservices | DevOps Enthusiast**
+<p align="left"># 👋 Olá, eu sou Victor Hugo  <br>**Java Backend Developer | Microservices | DevOps Enthusiast**<br><br>Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserviços com Java. Concentrado em código limpo, automação e práticas modernas de infraestrutura.</p>
 
-Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserviços com Java. Concentrado em código limpo, automação e práticas modernas de infraestrutura.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-## 🛠️ Tecnologias & Ferramentas
+###
 
-| Categoria                    | Tecnologias                                                                 |
-|-----------------------------|------------------------------------------------------------------------------|
-| **Java Avançado**           | Java 8+ • Streams, Lambdas, Collections (List, Set, Map) • Programação funcional |
-| **Banco de Dados**          | JDBC • PL/SQL • SQL avançado (triggers, transações, subconsultas)           |
-| **Java EE / Jakarta EE**    | JPA (@Id, @OneToMany, @ManyToOne) • CDI • JAX-RS (REST) • EJB • JSF • JAX-WS |
-| **Microserviços & Quarkus** | Arquitetura distribuída • Quarkus • APIs REST • Docker • Kubernetes         |
-| **DevOps & Infraestrutura** | Git • Docker • Docker Compose • Kubernetes (pods, services, deployment)     |
----
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/vhgtvictor/vhgtvictor/output/snake.svg" alt="Snake animation" />
-
----
-## 🎯 Próximos passos
-
-- Adicionar testes automatizados (JUnit + Mockito)  
-- Implementar CI/CD com GitHub Actions  
-- Explorar monitoramento: Prometheus, ELK, tracing  
-- Aprofundar em segurança e autenticação (Keycloak, OAuth2)
-
-
+###
