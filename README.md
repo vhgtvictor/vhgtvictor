@@ -16,10 +16,7 @@ Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserv
 | **DevOps & Infraestrutura** | Git • Docker • Docker Compose • Kubernetes (pods, services, deployment)     |
 ---
 
-## 🚀 Estatísticas e Badges
-
-![](https://komarev.com/ghpvc/?username=vhgtvictor&style=for-the-badge&color=blueviolet)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vhgtvictor&show_icons=true&theme=radical)  
+<img src="https://raw.githubusercontent.com/vhgtvictor/vhgtvictor/output/snake.svg" alt="Snake animation" />
 
 ---
 ## 🎯 Próximos passos
