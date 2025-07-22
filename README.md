@@ -1,5 +1,8 @@
-<p align="left"># 👋 Olá, eu sou Victor Hugo  <br>**Java Backend Developer | Microservices | DevOps Enthusiast**<br><br>Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserviços com Java. Concentrado em código limpo, automação e práticas modernas de infraestrutura.</p>
+# 👋 Olá, eu sou **Victor Hugo**  
+**Java Backend Developer | Microservices | DevOps Enthusiast**
 
+<p>Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserviços com Java. Concentrado em código limpo, automação e práticas modernas de infraestrutura.</p>
+---
 ###
 
 <div align="left">
@@ -18,9 +21,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+## 🚀 Estatísticas e Badges
 
-###
+![](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Como me encontrar
+
+- ✉️ E-mail: seu.email@exemplo.com  
+- 🔗 LinkedIn: [vicvtorhugo](https://linkedin.com/in/victorhugo)  
+---
+
