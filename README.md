@@ -23,8 +23,8 @@
 
 ## 🚀 Estatísticas e Badges
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
+![](https://komarev.com/ghpvc/?username=vhgtvictor&style=for-the-badge&color=blueviolet)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vhgtvictor&show_icons=true&theme=radical)  
 
 ---
 
