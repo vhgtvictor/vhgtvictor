@@ -22,11 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vhgtvictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ## 🚀 Estatísticas
 
 ![](https://komarev.com/ghpvc/?username=vhgtvictor&style=for-the-badge&color=blueviolet)  
