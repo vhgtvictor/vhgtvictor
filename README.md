@@ -25,5 +25,5 @@
 ## 📫 Como me encontrar
 
 - ✉️ E-mail:  
-- 🔗 LinkedIn: [victorhugo](https://linkedin.com/in/victorhugo)  
+- 🔗 LinkedIn: [victorhugo](https://linkedin.com/in/)  
 
