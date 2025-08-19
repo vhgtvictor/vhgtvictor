@@ -26,5 +26,5 @@ Fique a vontade para batermos um papo ou trocarmos designs técnicos!</p>
 ## 📫 Como me encontrar
 
 - ✉️ E-mail:  
-- 🔗 LinkedIn: [victorhugo](https://linkedin.com/in/)  
+- 🔗 LinkedIn: [victorhugo]()  
 
