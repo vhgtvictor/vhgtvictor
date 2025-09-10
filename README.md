@@ -2,7 +2,7 @@
 **Java Backend Developer | Microservices | DevOps Enthusiast**
 
 <p>Sou um desenvolvedor de produtos escaláveis utilizando arquitetura de microserviços com Java. Concentrado em código limpo, automação e práticas modernas de infraestrutura.
-Fique a vontade para batermos um papo ou trocarmos designs técnicos!</p>
+Fique a vontade para batermos um papo ou trocarmos designs técnicos!!</p>
 
 ###
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
